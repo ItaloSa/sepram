@@ -21,6 +21,13 @@
 						</div>
 					</header>
 					<div class="left-content scroll">
+						<div class="container">
+							<div class="row">
+								<div class="col col-12 alert-info">
+									<p><b>Open!</b> disponível no: <a href="https://github.com/ItaloSa/sepram">GitHub</a>.</p>
+								</div>
+							</div>
+						</div>
 						<?php
 							include "index_box.php"
 						?>                               
